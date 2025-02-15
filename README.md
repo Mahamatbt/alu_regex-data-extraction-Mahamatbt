@@ -9,7 +9,7 @@ This project extracts specific data types (emails, URLs, phone numbers, etc.) fr
    ```bash
    git clone https://github.com/Mahamatbt/alu_regex-data-extraction-Mahamatbt.git
 
-##Acknowledgments
+## Acknowledgments
 
 Inspired by the need for efficient data extraction using regex.
 Thanks to Regex101 for testing and debugging regex patterns.
