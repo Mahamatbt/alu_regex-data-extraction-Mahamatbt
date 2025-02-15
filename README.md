@@ -7,7 +7,7 @@ This project extracts specific data types (emails, URLs, phone numbers, etc.) fr
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mahamatbt/alu_regex-data-extraction-YourUsername.git
+   git clone https://github.com/Mahamatbt/alu_regex-data-extraction-Mahamatbt.git
 
 ##Acknowledgments
 
